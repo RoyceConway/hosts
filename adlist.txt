@@ -1,0 +1,21 @@
+# Title: RoyceConway/hosts
+#
+# This hosts file is a collection of my hosts for pi-hole.
+#
+# Date: 15 November 2023 09:00:00 (UTC)
+# Number of unique domains: 2
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/RoyceConway/hosts/master/hosts
+# Project home page: https://github.com/RoyceConway/hosts
+# Project releases: https://github.com/RoyceConway/hosts/releases
+# ===============================================================
+
+0.0.0.0 bf-ad.net
+0.0.0.0 lehrer-finden.de
+0.0.0.0 outbrain.com
+0.0.0.0 bfops.io
+0.0.0.0 web-vitals.bfops.io
+0.0.0.0 bf-tools.net
+0.0.0.0 a.bf-tools.net
+0.0.0.0 cmp.focus.de
+0.0.0.0 p6.focus.de
